@@ -15,6 +15,7 @@ Allow me to impart a touch of wisdom with my favorite quote:
 
 ---
 
+<!--
 #### 📋 Languages:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -65,14 +66,19 @@ Allow me to impart a touch of wisdom with my favorite quote:
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) -->
 
-### Personal Projects & Website
+### Personal Website, Projects & Links
 
-Personal Website: [https://www.atakanoz.com](https://www.atakanoz.com).<br>
+👾 Personal Website: [https://www.atakanoz.com](https://www.atakanoz.com).<br>
 ✈️ Travelkoa: [https://www.travelkoa.com](https://www.travelkoa.com).<br>
-🍵 Teapong: [https://www.teapong.com](https://www.teapong.com).
+💼 Cogniwork [https://www.cogniwork.com](https://www.cogniwork.com).<br>
+🍵 Teapong: [https://www.teapong.com](https://www.teapong.com).<br>
 
 #### Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atakanoz/)
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atakanoz)
+
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/atakanoz)
