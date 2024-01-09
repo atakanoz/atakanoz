@@ -54,17 +54,10 @@ I am Seasoned Full Stack Developer with over 10 years of specialized experience 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
 
-#### 🎓 Education
-
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
 ### Personal Projects & Website
 
-Personal Website: [https://www.atakanoz.com](https://www.atakanoz.com).
-✈️ Travelkoa: [https://www.travelkoa.com](https://www.travelkoa.com).
+Personal Website: [https://www.atakanoz.com](https://www.atakanoz.com).<br>
+✈️ Travelkoa: [https://www.travelkoa.com](https://www.travelkoa.com).<br>
 🍵 Teapong: [https://www.teapong.com](https://www.teapong.com).
 
 #### Connect
