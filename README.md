@@ -11,6 +11,10 @@ Allow me to impart a touch of wisdom with my favorite quote:
 > We have two hands and one mouth so that we can write code twice as much as we speak.
 > (Originally from Epictetus)
 
+---
+
+<br>
+
 #### 📋 Languages:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
