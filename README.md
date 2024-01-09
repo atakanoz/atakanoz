@@ -1,6 +1,15 @@
 [![GitHub Banner](./assets/github-cover.png)](https://atakanoz.com)
+<br>
+Hey there, fabulous human! Atakan here, your friendly neighborhood web wizard hailing from the earth. I've got this peculiar knack for creating stuff on the vast and wild web – especially in WordPress.
 
-I am Seasoned Full Stack Developer with over 10 years of specialized experience in WordPress and its ecosystem.
+Despite my degree in sociology (because understanding people is fun, right?), I've discovered that my true calling lies in untangling, investigating, and fixing code rather than dissecting societal puzzles. Go figure!
+
+Since the ancient times of 2011, I've been on a wild coding spree, crafting websites and web apps like a caffeinated squirrel on a keyboard. My main gig? Conjuring up WordPress magic for businesses ranging from tiny startups to grand enterprises.
+
+Let me drop a twist of my favoritue quote here:
+
+> We have two hands and one mouth so that we can write code twice as much as we speak.
+> (Originally from Epictetus)
 
 #### 📋 Languages:
 
