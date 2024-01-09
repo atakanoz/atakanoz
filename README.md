@@ -9,6 +9,7 @@ Since the inception of my coding journey in 2011, I have been dedicated to the c
 Allow me to impart a touch of wisdom with my favorite quote:
 
 > We have two hands and one mouth so that we can write code twice as much as we speak.
+>
 > (Originally from Epictetus)
 
 <br>
@@ -72,7 +73,7 @@ Allow me to impart a touch of wisdom with my favorite quote:
 
 👾 Personal Website: [https://www.atakanoz.com](https://www.atakanoz.com).<br>
 ✈️ Travelkoa: [https://www.travelkoa.com](https://www.travelkoa.com).<br>
-💼 Cogniwork [https://www.cogniwork.com](https://www.cogniwork.com).<br>
+💼 Cogniwork [https://cogniwork.com](https://www.cogniwork.com).<br>
 🍵 Teapong: [https://www.teapong.com](https://www.teapong.com).<br>
 
 #### Connect
